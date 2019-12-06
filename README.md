@@ -5,7 +5,8 @@ Sample files for coding test of Curl Analytics
 * Submit the answers in Python format only.
   * Download the sample files for the questions from this repository
   * Add your code in the corresponding files
-  * Email the code files to evaluation@curlanalytics.com with subject **IITB Recruitment Test**
+  * Email the code files to atinder@curlanalytics.com with subject **IITB Recruitment Test**
+  * The subject line should be exact otherwise your email will be discarded.
   * Also share your github profile link if present in the email. 
 * Clean code with proper comments and coding style will be preferred.
 * Scoring will be done based on number of test cases passed and the coding style.
